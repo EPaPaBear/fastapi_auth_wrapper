@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: fastapi_simplified
+Version: 0.1.1
+Summary: A simplified FastAPI wrapper library for Spring-Boot-familiar devs and also for simple authentication.
+Author: overworkeddev
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: bcrypt
+Requires-Dist: python-jose[cryptography]
+Requires-Dist: python-dotenv
+Requires-Dist: passlib
+Requires-Dist: PyMySQL
+Requires-Dist: SQLAlchemy
+Requires-Dist: python-multipart
+Requires-Dist: typing_extensions
